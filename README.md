@@ -1,20 +1,45 @@
+<!-- आपके नाम और रोल का सेक्शन -->
 <h1 align="center">Shivam Kumar</h1>
 <p align="center"><b>Frontend Developer / Web Developer</b></p>
 
+---
+
+<!-- रंग-बिरंगे टेक आइकॉन्स (Tech Badges) -->
 <p align="center">
-  HTML &nbsp;|&nbsp; CSS &nbsp;|&nbsp; JavaScript &nbsp;|&nbsp; C &nbsp;|&nbsp; Java
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com"><img src="https://shields.io" /></a>
-  <a href="mailto:shivam@example.com"><img src="https://shields.io" /></a>
-</p>
+---
+
+## 📁 Featured projects
+
+| Project | What it does | Tech |
+| :--- | :--- | :--- |
+| [Portfolio](#) | My personal website with all my projects | HTML, CSS, JavaScript, Java |
+| [Restaurant Website](#) | Restaurant Website & Cafe website | HTML, CSS, JavaScript |
+| [Attendance System](#) | High level Unique Mobile Attendance | Java, Android |
 
 ---
 
 ## 👨‍💻 About me
 
-* 🌐 Web developer working with HTML, CSS, JavaScript, c, and Java with springboot ,Database
+* 🌐 Web developer working with HTML, CSS, JavaScript, C, and Java
 * 🛠️ I build responsive websites and web apps
 * 📍 Based in India
 
+---
+
+## 📊 GitHub stats
+
+<p align="left">
+  <img src="https://vercel.app" alt="Shivam's GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="Shivam's Top Langs" width="48%" />
+</p>
