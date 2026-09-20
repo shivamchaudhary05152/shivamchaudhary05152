@@ -24,7 +24,7 @@
 | Project | What it does | Tech |
 | :--- | :--- | :--- |
 | [Portfolio](#) | My personal website with all my projects | HTML, CSS, JavaScript, Java |
-| [GanwiSwad](#) | E-commerce  Website | HTML, CSS, JavaScript ,java with springboot , my SQL |
+| [GanwaiSwad](#) | E-commerce  Website | HTML, CSS, JavaScript ,java with springboot , my SQL |
 
 ---
 
