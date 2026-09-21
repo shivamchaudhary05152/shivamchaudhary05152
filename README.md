@@ -37,8 +37,4 @@
 ---
 
 ## 📊 GitHub stats
-
-<p align="left">
-  <img src="https://vercel.app" alt="Shivam's GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Shivam's Top Langs" width="48%" />
-</p>
+🛠️ Building the future, one commit at a time
