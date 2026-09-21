@@ -24,7 +24,6 @@
 
 | Project | What it does | Tech |
 | :--- | :--- | :--- |
-| [Portfolio](#) | My personal website with all my projects | HTML, CSS, JavaScript, Java |
 <a href="https://github.com/shivamchaudhary05152/GanwaiSwad" /> E-commerce  Website (Ganwai swad) | HTML, CSS, JavaScript ,java with springboot , my SQL |
 
 ---
