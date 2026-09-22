@@ -5,18 +5,9 @@
 ---
 
 <!-- रंग-बिरंगे टेक आइकॉन्स (Tech Badges) -->
-<p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-   <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-
-</p>
+<h1 align="center">
+  Full Stack Devlopar
+</h1>
 
 ---
 
