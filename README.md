@@ -15,7 +15,7 @@
 
 | Project | What it does | Tech |
 | :--- | :--- | :--- |
-<a href="https://github.com/shivamchaudhary05152/GanwaiSwad" /> E-commerce  Website (Ganwai swad) | HTML, CSS, JavaScript ,java with springboot , my SQL |
+<a href="https://github.com/shivamchaudhary05152/GanwaiSwad" /> E-commerce  Website (Ganwai swad) | E-commerce  Website for selling some products like pickel and Vinegar | HTML , CSS ,JS , Boot strep , java , spring boot
 
 ---
 
