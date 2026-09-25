@@ -23,7 +23,7 @@
 
 * 🌐 Web developer working with HTML, CSS, JavaScript, C, and Java with spring-boot fream work .
 * 🛠️ I build responsive websites and web apps.
-* 📍 Based in India
+* 📍 Based in India.
 
 ---
 
