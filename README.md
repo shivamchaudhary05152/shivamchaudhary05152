@@ -4,7 +4,7 @@
 
 ---
 
-<!-- रंग-बिरंगे टेक आइकॉन्स (Tech Badges) -->
+
 <h1 align="center">
   Full Stack Devlopar
 </h1>
